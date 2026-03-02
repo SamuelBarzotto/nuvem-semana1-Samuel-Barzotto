@@ -70,7 +70,9 @@ btnPost.addEventListener("click", httpPostSimulado);
 const cityEl = document.getElementById("city");
 const btnCity = document.getElementById("btnCity");
 const cityOut = document.getElementById("cityOut");
-
+// Preencher automaticamente ao abrir
+const last = localStorage.getItem("lastCity");
+if (last) cityEl.value = last;
 function showCity(obj) {
   cityOut.textContent = typeof obj === "string" ? obj : JSON.stringify(obj, null, 2);
 }
