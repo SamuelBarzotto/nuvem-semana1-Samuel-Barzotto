@@ -1,6 +1,6 @@
-# Semana 1 - Deploy estatico (GitHub Pages)
+# Semana 1 - Deploy estático (GitHub Pages)
 ## Links
-- Repositorio: https://github.com/SamuelBarzotto/nuvem-semana1-Samuel-Barzotto
+- Repositório: https://github.com/SamuelBarzotto/nuvem-semana1-Samuel-Barzotto
 - Site (GitHub Pages): https://samuelbarzotto.github.io/nuvem-semana1-Samuel-Barzotto/
 ## O que foi feito
 - Criei index.html, style.css e script.js pelo navegador
