@@ -6,4 +6,4 @@
 - Criei index.html, style.css e script.js pelo navegador
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
-- Nenhuma
+- Deu erro "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener') at script.js:12:5".
